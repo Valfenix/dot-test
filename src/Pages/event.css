@@ -1,0 +1,35 @@
+.event-table {
+  margin-top: 50px;
+}
+.event-table td {
+  font-size: 12px;
+}
+
+.event-table th {
+  font-size: 13px;
+}
+
+.event-table a {
+  text-align: center;
+}
+
+.home-button {
+  font-size: 14px;
+  background-color: #006ea9;
+  color: #ffffff;
+  border-radius: 5px;
+  text-align: center;
+  display: inline-block;
+  padding: 13px 40px;
+  margin-bottom: 40px;
+  text-decoration: none;
+  transition: 0.5s;
+  box-shadow: 0 0 10px #00000020;
+  font-weight: 600;
+}
+
+.home-button:hover {
+  background-color: #01527e;
+  transition: 0.5s;
+  color: #ffffff;
+}
